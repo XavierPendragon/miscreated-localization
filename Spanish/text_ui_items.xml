@@ -10,16 +10,16 @@
   <LastAuthor>tevans</LastAuthor>
   <Created>2019-03-13T12:39:08Z</Created>
   <LastSaved>2019-03-13T12:39:08Z</LastSaved>
-  <Version>16.00</Version>
+  <Version>12.00</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
   <AllowPNG/>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>9732</WindowHeight>
+  <WindowHeight>9735</WindowHeight>
   <WindowWidth>23040</WindowWidth>
-  <WindowTopX>32767</WindowTopX>
-  <WindowTopY>32767</WindowTopY>
+  <WindowTopX>32760</WindowTopX>
+  <WindowTopY>32760</WindowTopY>
   <RefModeR1C1/>
   <ProtectStructure>False</ProtectStructure>
   <ProtectWindows>False</ProtectWindows>
@@ -93,9 +93,8 @@
  <Worksheet ss:Name="Sheet1">
   <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="3363" x:FullColumns="1"
    x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="15">
-   <Column ss:AutoFitWidth="0" ss:Width="14.4"/>
-   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="318.59999999999997"
-    ss:Span="2"/>
+   <Column ss:AutoFitWidth="0" ss:Width="14.25"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="318.75" ss:Span="2"/>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell ss:Index="2" ss:StyleID="s63"><Data ss:Type="String">KEY</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
@@ -114,7 +113,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">10mmx15Description</Data></Cell>
     <Cell><Data ss:Type="String">A 10mm magazine with a 15 round capacity for the Vector</Data></Cell>
-    <Cell><Data ss:Type="String">Una revista de 10mm con una capacidad de 15 rondas para el Vector.</Data></Cell>
+    <Cell><Data ss:Type="String">Un cargador de 10mm con una capacidad de 15 balas para el Vector.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">10mmx30</Data></Cell>
@@ -124,7 +123,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">10mmx30Description</Data></Cell>
     <Cell><Data ss:Type="String">A 10mm magazine with a 30 round capacity for the MP55</Data></Cell>
-    <Cell><Data ss:Type="String">Una revista de 10 mm con una capacidad de 30 rondas para el MP55.</Data></Cell>
+    <Cell><Data ss:Type="String">Un cargador de 10 mm con una capacidad de 30 balas para el MP55.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">12Gaugex8_Beanbag_AA12</Data></Cell>
@@ -134,7 +133,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">12Gaugex8_Beanbag_AA12Description</Data></Cell>
     <Cell><Data ss:Type="String">A 12 gauge mag with a 8 round beanbag capacity</Data></Cell>
-    <Cell><Data ss:Type="String">Una revista de calibre 12 con una capacidad de 8 bolsas redondas</Data></Cell>
+    <Cell><Data ss:Type="String">Un cargador de calibre 12 con una capacidad de 8 bolsas redondas</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">12Gaugex8_Pellet_AA12</Data></Cell>
@@ -164,7 +163,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">22x10_rugerDescription</Data></Cell>
     <Cell><Data ss:Type="String">A .22 magazine with a 10 round capacity</Data></Cell>
-    <Cell><Data ss:Type="String">Una revista .22 con una capacidad de 10 rondas.</Data></Cell>
+    <Cell><Data ss:Type="String">Un cargador .22 con una capacidad de 10 balas.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">357x14</Data></Cell>
@@ -174,7 +173,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">357x14Description</Data></Cell>
     <Cell><Data ss:Type="String">A 357 magazine with a 14 round capacity</Data></Cell>
-    <Cell><Data ss:Type="String">Una revista 357 con una capacidad de 14 rondas.</Data></Cell>
+    <Cell><Data ss:Type="String">Un cargador 357 con una capacidad de 14 balas.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">545x30</Data></Cell>
@@ -184,7 +183,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">545x30Description</Data></Cell>
     <Cell><Data ss:Type="String">A 5.45mm magazine with a 30 round capacity (for AK74U)</Data></Cell>
-    <Cell><Data ss:Type="String">Una revista de 5,45 mm con una capacidad de 30 rondas (para AK74U)</Data></Cell>
+    <Cell><Data ss:Type="String">Un cargador de 5,45 mm con una capacidad de 30 balas (para AK74U)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">556x100</Data></Cell>
@@ -194,7 +193,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">556x100Description</Data></Cell>
     <Cell><Data ss:Type="String">A large box magazine with a 100 round capacity</Data></Cell>
-    <Cell><Data ss:Type="String">Una gran caja de revistas con una capacidad de 100 rondas.</Data></Cell>
+    <Cell><Data ss:Type="String">Una gran caja de cargadors con una capacidad de 100 balas.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">57x50</Data></Cell>
@@ -204,7 +203,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">57x50Description</Data></Cell>
     <Cell><Data ss:Type="String">A 5.7mm magazine with a 50 round capacity</Data></Cell>
-    <Cell><Data ss:Type="String">Una revista de 5.7mm con una capacidad de 50 rondas.</Data></Cell>
+    <Cell><Data ss:Type="String">Un cargador de 5.7mm con una capacidad de 50 balas.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">762x30</Data></Cell>
@@ -214,7 +213,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">762x30Description</Data></Cell>
     <Cell><Data ss:Type="String">A 7.62x39 magazine with a 30 round capacity</Data></Cell>
-    <Cell><Data ss:Type="String">Una revista de 7.62x39 con una capacidad de 30 rondas.</Data></Cell>
+    <Cell><Data ss:Type="String">Un cargador de 7.62x39 con una capacidad de 30 balas.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">762x5</Data></Cell>
@@ -224,7 +223,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">762x5Description</Data></Cell>
     <Cell><Data ss:Type="String">A 7.62x51 magazine with a 5 round capacity (for ACAW)</Data></Cell>
-    <Cell><Data ss:Type="String">Una revista de 7.62x51 con una capacidad de 5 rondas (para ACAW)</Data></Cell>
+    <Cell><Data ss:Type="String">Un cargador de 7.62x51 con una capacidad de 5 balas (para ACAW)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">9mmx10</Data></Cell>
@@ -239,12 +238,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">9mmx10_makarovDescription</Data></Cell>
     <Cell><Data ss:Type="String">A 9mm magazine for a Makarov with a 10 round capacity</Data></Cell>
-    <Cell><Data ss:Type="String">Una revista de 9 mm para un Makarov con una capacidad de 10 rondas.</Data></Cell>
+    <Cell><Data ss:Type="String">Un cargador de 9 mm para un Makarov con una capacidad de 10 balas.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">9mmx10Description</Data></Cell>
     <Cell><Data ss:Type="String">A 9mm magazine with a 10 round capacity</Data></Cell>
-    <Cell><Data ss:Type="String">Una revista de 9mm con una capacidad de 10 rondas.</Data></Cell>
+    <Cell><Data ss:Type="String">Un cargador de 9mm con una capacidad de 10 balas.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">9mmx15_m9a1</Data></Cell>
@@ -254,7 +253,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">9mmx15_m9a1Description</Data></Cell>
     <Cell><Data ss:Type="String">A 9mm magazine with a 15 round capacity (for M9A1)</Data></Cell>
-    <Cell><Data ss:Type="String">Una revista de 9 mm con una capacidad de 15 rondas (para M9A1)</Data></Cell>
+    <Cell><Data ss:Type="String">Un cargador de 9 mm con una capacidad de 15 balas (para M9A1)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">9mmx19</Data></Cell>
@@ -269,12 +268,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">9mmx19_ap85Description</Data></Cell>
     <Cell><Data ss:Type="String">A 9mm magazine with a 19 round capacity (for AP85)</Data></Cell>
-    <Cell><Data ss:Type="String">Una revista de 9 mm con una capacidad de 19 rondas (para AP85)</Data></Cell>
+    <Cell><Data ss:Type="String">Un cargador de 9 mm con una capacidad de 19 balas (para AP85)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">9mmx19Description</Data></Cell>
     <Cell><Data ss:Type="String">A 9mm magazine with a 19 round capacity</Data></Cell>
-    <Cell><Data ss:Type="String">Una revista de 9mm con una capacidad de 19 rondas.</Data></Cell>
+    <Cell><Data ss:Type="String">Un cargador de 9mm con una capacidad de 19 balas.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">9mmx33</Data></Cell>
@@ -284,7 +283,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">9mmx33Description</Data></Cell>
     <Cell><Data ss:Type="String">A 9mm magazine with a 33 round capacity</Data></Cell>
-    <Cell><Data ss:Type="String">Una revista de 9mm con una capacidad de 33 rondas.</Data></Cell>
+    <Cell><Data ss:Type="String">Un cargador de 9mm con una capacidad de 33 balas.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">AA12</Data></Cell>
@@ -314,7 +313,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">acp_45x10_hkDescription</Data></Cell>
     <Cell><Data ss:Type="String">A .45 magazine with a 10 round capacity (for HK45).</Data></Cell>
-    <Cell><Data ss:Type="String">Una revista .45 con una capacidad de 10 rondas (para HK45).</Data></Cell>
+    <Cell><Data ss:Type="String">Un cargador .45 con una capacidad de 10 balas (para HK45).</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">acp_45x20</Data></Cell>
@@ -324,7 +323,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">acp_45x20Description</Data></Cell>
     <Cell><Data ss:Type="String">A .45 magazine with a 20 round capacity (for Cx8 Storm).</Data></Cell>
-    <Cell><Data ss:Type="String">Una revista .45 con una capacidad de 20 rondas (para Cx8 Storm).</Data></Cell>
+    <Cell><Data ss:Type="String">Un cargador .45 con una capacidad de 20 balas (para Cx8 Storm).</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">acp_45x30</Data></Cell>
@@ -334,7 +333,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">acp_45x30Description</Data></Cell>
     <Cell><Data ss:Type="String">A .45 magazine with a 30 round capacity (for AUMP45).</Data></Cell>
-    <Cell><Data ss:Type="String">Una revista .45 con una capacidad de 30 rondas (para AUMP45).</Data></Cell>
+    <Cell><Data ss:Type="String">Un cargador .45 con una capacidad de 30 balas (para AUMP45).</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">acp_45x7</Data></Cell>
@@ -344,7 +343,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">acp_45x7Description</Data></Cell>
     <Cell><Data ss:Type="String">A .45 magazine with a 7 round capacity (for M1911-A1).</Data></Cell>
-    <Cell><Data ss:Type="String">Una revista .45 con una capacidad de 7 rondas (para M1911-A1).</Data></Cell>
+    <Cell><Data ss:Type="String">Un cargador .45 con una capacidad de 7 balas (para M1911-A1).</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">AdrenalineSyringe</Data></Cell>
@@ -374,7 +373,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">AK74UDescription</Data></Cell>
     <Cell><Data ss:Type="String">Military semi/fully automatic rifle. Fires 5.45 rounds.</Data></Cell>
-    <Cell><Data ss:Type="String">Fusil semi / totalmente militar militar. Incendios de 5,45 rondas.</Data></Cell>
+    <Cell><Data ss:Type="String">Fusil semi / totalmente militar militar. Incendios de 5,45 balas.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">AKM</Data></Cell>
@@ -604,7 +603,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">AP85Description</Data></Cell>
     <Cell><Data ss:Type="String">A semi-auto pistol. Fires 9mm rounds.</Data></Cell>
-    <Cell><Data ss:Type="String">Una pistola semi-automática. Incendios de rondas de 9mm.</Data></Cell>
+    <Cell><Data ss:Type="String">Una pistola semi-automática. Incendios de balas de 9mm.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">AppleFresh</Data></Cell>
@@ -3474,7 +3473,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ColtPythonDescription</Data></Cell>
     <Cell><Data ss:Type="String">.357 Revolver with 6 round capacity.</Data></Cell>
-    <Cell><Data ss:Type="String">Revólver .357 con capacidad de 6 rondas.</Data></Cell>
+    <Cell><Data ss:Type="String">Revólver .357 con capacidad de 6 balas.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ColtPythonGrimeyRick</Data></Cell>
@@ -3754,7 +3753,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">CraftedLongPistolDescription</Data></Cell>
     <Cell><Data ss:Type="String">A semi-auto long barrel crafted pistol. Fires 9mm rounds.</Data></Cell>
-    <Cell><Data ss:Type="String">Una pistola semiautomática de cañón largo. Incendios de rondas de 9mm.</Data></Cell>
+    <Cell><Data ss:Type="String">Una pistola semiautomática de cañón largo. Incendios de balas de 9mm.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">CraftedPickaxe</Data></Cell>
@@ -3784,7 +3783,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">CraftedPistolDescription</Data></Cell>
     <Cell><Data ss:Type="String">A semi-auto crafted pistol. Fires 9mm rounds.</Data></Cell>
-    <Cell><Data ss:Type="String">Una pistola semiautomática. Incendios de rondas de 9mm.</Data></Cell>
+    <Cell><Data ss:Type="String">Una pistola semiautomática. Incendios de balas de 9mm.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">CraftedPistolSilencer</Data></Cell>
@@ -3804,7 +3803,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">CraftedRifle9mmDescription</Data></Cell>
     <Cell><Data ss:Type="String">A semi-auto crafted rifle. Fires 9mm rounds.</Data></Cell>
-    <Cell><Data ss:Type="String">Un rifle semiautomático. Incendios de rondas de 9mm.</Data></Cell>
+    <Cell><Data ss:Type="String">Un rifle semiautomático. Incendios de balas de 9mm.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">CraftedRifleLong</Data></Cell>
@@ -3864,7 +3863,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">CraftedSMGDescription</Data></Cell>
     <Cell><Data ss:Type="String">A crafted SMG with multiple fire modes. Fires 9mm rounds.</Data></Cell>
-    <Cell><Data ss:Type="String">Un SMG hecho a mano con múltiples modos de disparo. Incendios de rondas de 9mm.</Data></Cell>
+    <Cell><Data ss:Type="String">Un SMG hecho a mano con múltiples modos de disparo. Incendios de balas de 9mm.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Crossbow</Data></Cell>
@@ -3894,7 +3893,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">CX4StormDescription</Data></Cell>
     <Cell><Data ss:Type="String">An Italian made Cx8 Storm rifle. Fires ACP .45 rounds.</Data></Cell>
-    <Cell><Data ss:Type="String">Un fusil de tormenta Cx8 de fabricación italiana. Incendios ACP .45 rondas.</Data></Cell>
+    <Cell><Data ss:Type="String">Un fusil de tormenta Cx8 de fabricación italiana. Incendios ACP .45 balas.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">DebugPistol</Data></Cell>
@@ -5619,7 +5618,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">G18PistolDescription</Data></Cell>
     <Cell><Data ss:Type="String">A semi-auto G18 handgun. Fires 9mm rounds.</Data></Cell>
-    <Cell><Data ss:Type="String">Una pistola semi-automática G18. Incendios de rondas de 9mm.</Data></Cell>
+    <Cell><Data ss:Type="String">Una pistola semi-automática G18. Incendios de balas de 9mm.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">GasCanisterPack</Data></Cell>
@@ -6709,7 +6708,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">hk45Description</Data></Cell>
     <Cell><Data ss:Type="String">A semi-auto Haakon and Ketel handgun. Fires .45 ACP rounds (10 round mag).</Data></Cell>
-    <Cell><Data ss:Type="String">Una pistola semi-automática de Haakon y Ketel. Incendios .45 rondas ACP (10 mag redondas).</Data></Cell>
+    <Cell><Data ss:Type="String">Una pistola semi-automática de Haakon y Ketel. Incendios .45 balas ACP (10 mag redondas).</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">HockeyMask</Data></Cell>
@@ -7159,7 +7158,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">KrissVDescription</Data></Cell>
     <Cell><Data ss:Type="String">Compact automatic SMG. Fires 10mm rounds.</Data></Cell>
-    <Cell><Data ss:Type="String">Compacto automático SMG. Incendios de rondas de 10mm.</Data></Cell>
+    <Cell><Data ss:Type="String">Compacto automático SMG. Incendios de balas de 10mm.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">LaserSight</Data></Cell>
@@ -7349,7 +7348,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">M16Description</Data></Cell>
     <Cell><Data ss:Type="String">Military semi-automatic and burst-fire rifle. Fires 5.56 rounds.</Data></Cell>
-    <Cell><Data ss:Type="String">Militar semiautomático y fusil de fuego de ráfaga. Incendios de 5,56 rondas.</Data></Cell>
+    <Cell><Data ss:Type="String">Militar semiautomático y fusil de fuego de ráfaga. Incendios de 5,56 balas.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">m1911a1</Data></Cell>
@@ -7359,7 +7358,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">m1911a1Description</Data></Cell>
     <Cell><Data ss:Type="String">A semi-auto M1911 pistol. Fires .45 ACP rounds (7 round mag).</Data></Cell>
-    <Cell><Data ss:Type="String">Una pistola semi-automática M1911. Incendios .45 rondas de ACP (7 mag de ronda).</Data></Cell>
+    <Cell><Data ss:Type="String">Una pistola semi-automática M1911. Incendios .45 balas de ACP (7 mag de ronda).</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">M249</Data></Cell>
@@ -7369,7 +7368,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">M249Description</Data></Cell>
     <Cell><Data ss:Type="String">Fully Automatic Machine Gun. Fires 5.56 rounds.</Data></Cell>
-    <Cell><Data ss:Type="String">Ametralladora completamente automática. Incendios de 5,56 rondas.</Data></Cell>
+    <Cell><Data ss:Type="String">Ametralladora completamente automática. Incendios de 5,56 balas.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">M40A5</Data></Cell>
@@ -7389,7 +7388,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">M40x5Description</Data></Cell>
     <Cell><Data ss:Type="String">A 7.62mm magazine with a 5 round capacity</Data></Cell>
-    <Cell><Data ss:Type="String">Una revista de 7,62 mm con una capacidad de 5 rondas.</Data></Cell>
+    <Cell><Data ss:Type="String">Un cargador de 7,62 mm con una capacidad de 5 balas.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">M9A1</Data></Cell>
@@ -7399,7 +7398,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">M9A1Description</Data></Cell>
     <Cell><Data ss:Type="String">A semi-auto M9 pistol. Fires 9mm rounds.</Data></Cell>
-    <Cell><Data ss:Type="String">Una pistola semi-automática M9. Incendios de rondas de 9mm.</Data></Cell>
+    <Cell><Data ss:Type="String">Una pistola semi-automática M9. Incendios de balas de 9mm.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Machete</Data></Cell>
@@ -7439,7 +7438,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">MakarovDescription</Data></Cell>
     <Cell><Data ss:Type="String">A self-loading soviet made pistol. Takes 9mm rounds (10 round mag)</Data></Cell>
-    <Cell><Data ss:Type="String">Una pistola soviética auto cargada. Lleva rondas de 9mm (10 mag redondas)</Data></Cell>
+    <Cell><Data ss:Type="String">Una pistola soviética auto cargada. Lleva balas de 9mm (10 mag redondas)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">MannequinArm</Data></Cell>
@@ -8104,7 +8103,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Mk18Description</Data></Cell>
     <Cell><Data ss:Type="String">Military short-barrel semi-automatic rifle. Fires 5.56 rounds.</Data></Cell>
-    <Cell><Data ss:Type="String">Fusil semiautomático de cañón corto militar. Incendios de 5,56 rondas.</Data></Cell>
+    <Cell><Data ss:Type="String">Fusil semiautomático de cañón corto militar. Incendios de 5,56 balas.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Mk18Reaver</Data></Cell>
@@ -8114,7 +8113,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Mk18ReaverDescription</Data></Cell>
     <Cell><Data ss:Type="String">Rare military short-barrel automatic rifle. Fires 5.56 rounds.</Data></Cell>
-    <Cell><Data ss:Type="String">Raro fusil automático de cañón corto. Incendios de 5,56 rondas.</Data></Cell>
+    <Cell><Data ss:Type="String">Raro fusil automático de cañón corto. Incendios de 5,56 balas.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Model70</Data></Cell>
@@ -8124,7 +8123,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Model70Description</Data></Cell>
     <Cell><Data ss:Type="String">Bolt action rifle. Fires .223 rounds.</Data></Cell>
-    <Cell><Data ss:Type="String">Rifle de accion de serrojo. Incendios .223 rondas.</Data></Cell>
+    <Cell><Data ss:Type="String">Rifle de accion de serrojo. Incendios .223 balas.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">MotorcycleHelmetCarbon</Data></Cell>
@@ -8164,7 +8163,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">MP5Description</Data></Cell>
     <Cell><Data ss:Type="String">Compact automatic SMG. Fires 10mm rounds.</Data></Cell>
-    <Cell><Data ss:Type="String">Compacto automático SMG. Incendios de rondas de 10mm.</Data></Cell>
+    <Cell><Data ss:Type="String">Compacto automático SMG. Incendios de balas de 10mm.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">MRE</Data></Cell>
@@ -8374,7 +8373,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">P350Description</Data></Cell>
     <Cell><Data ss:Type="String">A semi-auto handgun. Fires .357 rounds (14 round mag).</Data></Cell>
-    <Cell><Data ss:Type="String">Una pistola semiautomática. Incendios .357 rondas (14 mag redondas).</Data></Cell>
+    <Cell><Data ss:Type="String">Una pistola semiautomática. Incendios .357 balas (14 mag redondas).</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">PackedCampingTentBlue</Data></Cell>
@@ -8899,12 +8898,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_10mm</Data></Cell>
     <Cell><Data ss:Type="String">10mm Rounds</Data></Cell>
-    <Cell><Data ss:Type="String">Rondas de 10mm</Data></Cell>
+    <Cell><Data ss:Type="String">balas de 10mm</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_10mmDescription</Data></Cell>
     <Cell><Data ss:Type="String">A pile of 10mm rounds</Data></Cell>
-    <Cell><Data ss:Type="String">Un montón de rondas de 10 mm.</Data></Cell>
+    <Cell><Data ss:Type="String">Un montón de balas de 10 mm.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_12GaugeBeanbag</Data></Cell>
@@ -8914,7 +8913,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_12GaugeBeanbagDescription</Data></Cell>
     <Cell><Data ss:Type="String">A pile of 12 gauge non-lethal beanbag rounds</Data></Cell>
-    <Cell><Data ss:Type="String">Un montón de rondas de bolsas de frijoles no letales de calibre 12</Data></Cell>
+    <Cell><Data ss:Type="String">Un montón de balas de bolsas de frijoles no letales de calibre 12</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_12GaugePellet</Data></Cell>
@@ -8939,87 +8938,87 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_22</Data></Cell>
     <Cell><Data ss:Type="String">.22 Rounds</Data></Cell>
-    <Cell><Data ss:Type="String">22 rondas</Data></Cell>
+    <Cell><Data ss:Type="String">22 balas</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_223</Data></Cell>
     <Cell><Data ss:Type="String">.223 Rounds</Data></Cell>
-    <Cell><Data ss:Type="String">.223 Rondas</Data></Cell>
+    <Cell><Data ss:Type="String">.223 balas</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_223Description</Data></Cell>
     <Cell><Data ss:Type="String">A pile of .223 rounds</Data></Cell>
-    <Cell><Data ss:Type="String">Una pila de .223 rondas</Data></Cell>
+    <Cell><Data ss:Type="String">Una pila de .223 balas</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_22Description</Data></Cell>
     <Cell><Data ss:Type="String">A pile of .22 rounds</Data></Cell>
-    <Cell><Data ss:Type="String">Una pila de .22 rondas</Data></Cell>
+    <Cell><Data ss:Type="String">Una pila de .22 balas</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_308</Data></Cell>
     <Cell><Data ss:Type="String">.308 Rounds</Data></Cell>
-    <Cell><Data ss:Type="String">.308 rondas</Data></Cell>
+    <Cell><Data ss:Type="String">.308 balas</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_308Description</Data></Cell>
     <Cell><Data ss:Type="String">A pile of .308 rounds</Data></Cell>
-    <Cell><Data ss:Type="String">Una pila de .308 rondas</Data></Cell>
+    <Cell><Data ss:Type="String">Una pila de .308 balas</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_357</Data></Cell>
     <Cell><Data ss:Type="String">.357 Rounds</Data></Cell>
-    <Cell><Data ss:Type="String">.357 Rondas</Data></Cell>
+    <Cell><Data ss:Type="String">.357 balas</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_357Description</Data></Cell>
     <Cell><Data ss:Type="String">A pile of .357 rounds</Data></Cell>
-    <Cell><Data ss:Type="String">Una pila de .357 rondas</Data></Cell>
+    <Cell><Data ss:Type="String">Una pila de .357 balas</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_45ACP</Data></Cell>
     <Cell><Data ss:Type="String">.45 ACP Rounds</Data></Cell>
-    <Cell><Data ss:Type="String">.45 Rondas de la ACP</Data></Cell>
+    <Cell><Data ss:Type="String">.45 balas de la ACP</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_45ACPDescription</Data></Cell>
     <Cell><Data ss:Type="String">A pile of .45 ACP rounds</Data></Cell>
-    <Cell><Data ss:Type="String">Una pila de .45 rondas de ACP</Data></Cell>
+    <Cell><Data ss:Type="String">Una pila de .45 balas de ACP</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_545x39</Data></Cell>
     <Cell><Data ss:Type="String">5.45x39 Rounds</Data></Cell>
-    <Cell><Data ss:Type="String">Rondas de 5,45x39</Data></Cell>
+    <Cell><Data ss:Type="String">balas de 5,45x39</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_545x39Description</Data></Cell>
     <Cell><Data ss:Type="String">A pile of 5.45x39 rounds</Data></Cell>
-    <Cell><Data ss:Type="String">Una pila de 5,45x39 rondas.</Data></Cell>
+    <Cell><Data ss:Type="String">Una pila de 5,45x39 balas.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_556x45</Data></Cell>
     <Cell><Data ss:Type="String">5.56x45 Rounds</Data></Cell>
-    <Cell><Data ss:Type="String">Rondas de 5.56x45</Data></Cell>
+    <Cell><Data ss:Type="String">balas de 5.56x45</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_556x45Description</Data></Cell>
     <Cell><Data ss:Type="String">A pile of 5.56x45 rounds</Data></Cell>
-    <Cell><Data ss:Type="String">Una pila de 5,56x45 rondas.</Data></Cell>
+    <Cell><Data ss:Type="String">Una pila de 5,56x45 balas.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_57x28</Data></Cell>
     <Cell><Data ss:Type="String">5.7x28mm Rounds</Data></Cell>
-    <Cell><Data ss:Type="String">Rondas de 5.7x28mm</Data></Cell>
+    <Cell><Data ss:Type="String">balas de 5.7x28mm</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_57x28Description</Data></Cell>
     <Cell><Data ss:Type="String">A pile of 5.7x28mm rounds</Data></Cell>
-    <Cell><Data ss:Type="String">Una pila de rondas de 5.7x28mm.</Data></Cell>
+    <Cell><Data ss:Type="String">Una pila de balas de 5.7x28mm.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_762x39</Data></Cell>
     <Cell><Data ss:Type="String">7.62x39 Rounds</Data></Cell>
-    <Cell><Data ss:Type="String">Rondas 7.62x39</Data></Cell>
+    <Cell><Data ss:Type="String">balas 7.62x39</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_762x39Description</Data></Cell>
@@ -9029,7 +9028,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_762x51</Data></Cell>
     <Cell><Data ss:Type="String">7.62x51 Rounds</Data></Cell>
-    <Cell><Data ss:Type="String">Rondas 7.62x51</Data></Cell>
+    <Cell><Data ss:Type="String">balas 7.62x51</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_762x51Description</Data></Cell>
@@ -9039,12 +9038,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_9mm</Data></Cell>
     <Cell><Data ss:Type="String">9mm Rounds</Data></Cell>
-    <Cell><Data ss:Type="String">Rondas de 9mm</Data></Cell>
+    <Cell><Data ss:Type="String">balas de 9mm</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_9mmDescription</Data></Cell>
     <Cell><Data ss:Type="String">A pile of 9mm rounds</Data></Cell>
-    <Cell><Data ss:Type="String">Un montón de rondas de 9 mm.</Data></Cell>
+    <Cell><Data ss:Type="String">Un montón de balas de 9 mm.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_Flare</Data></Cell>
@@ -10624,7 +10623,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">PX4Description</Data></Cell>
     <Cell><Data ss:Type="String">A semi-auto pistol. Fires .45 ACP rounds (10 round mag).</Data></Cell>
-    <Cell><Data ss:Type="String">Una pistola semi-automática. Incendios .45 rondas ACP (10 mag redondas).</Data></Cell>
+    <Cell><Data ss:Type="String">Una pistola semi-automática. Incendios .45 balas ACP (10 mag redondas).</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">R90</Data></Cell>
@@ -10634,7 +10633,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">R90Description</Data></Cell>
     <Cell><Data ss:Type="String">Bullpup SMG with semi and fully automatic firemodes. Fires 5.7mm rounds.</Data></Cell>
-    <Cell><Data ss:Type="String">Bullpup SMG con modos de fuego semi y totalmente automáticos. Incendios de rondas de 5,7 mm.</Data></Cell>
+    <Cell><Data ss:Type="String">Bullpup SMG con modos de fuego semi y totalmente automáticos. Incendios de balas de 5,7 mm.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Radishes</Data></Cell>
@@ -10969,7 +10968,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Rem700Description</Data></Cell>
     <Cell><Data ss:Type="String">Bolt action rifle. Fires .308 rounds.</Data></Cell>
-    <Cell><Data ss:Type="String">Rifle de accion de serrojo. Incendios .308 rondas.</Data></Cell>
+    <Cell><Data ss:Type="String">Rifle de accion de serrojo. Incendios .308 balas.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Rem870</Data></Cell>
@@ -11509,7 +11508,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ruger22Description</Data></Cell>
     <Cell><Data ss:Type="String">A semi-auto MKIII handgun. Fires .22 rounds.</Data></Cell>
-    <Cell><Data ss:Type="String">Una pistola semi-automática MKIII. Incendios .22 rondas.</Data></Cell>
+    <Cell><Data ss:Type="String">Una pistola semi-automática MKIII. Incendios .22 balas.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">RuggedPack</Data></Cell>
@@ -11639,7 +11638,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Sako_85Description</Data></Cell>
     <Cell><Data ss:Type="String">Bolt action rifle. Fires .308 rounds.</Data></Cell>
-    <Cell><Data ss:Type="String">Rifle de accion de serrojo. Incendios .308 rondas.</Data></Cell>
+    <Cell><Data ss:Type="String">Rifle de accion de serrojo. Incendios .308 balas.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Salt</Data></Cell>
@@ -12669,7 +12668,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">STANAGx30Description</Data></Cell>
     <Cell><Data ss:Type="String">A STANAG magazine with a 30 round capacity</Data></Cell>
-    <Cell><Data ss:Type="String">Una revista STANAG con una capacidad de 30 rondas.</Data></Cell>
+    <Cell><Data ss:Type="String">Un cargador STANAG con una capacidad de 30 balas.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">SteamStand</Data></Cell>
@@ -16926,12 +16925,11 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>240</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>253</ActiveRow>
-     <ActiveCol>2</ActiveCol>
+     <ActiveRow>3</ActiveRow>
+     <ActiveCol>3</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
